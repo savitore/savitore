@@ -8,6 +8,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/krishnaaag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="savitore" height="30" width="40" /></a>
 <a href="https://instagram.com/krishna_aag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="savitore" height="30" width="40" /></a>
+<a href="https://twitter.com/krishna29ag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="savitore" height="30" width="40" /></a>
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=savitore&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
