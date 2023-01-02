@@ -8,7 +8,7 @@
 - 📫 How to reach me **krishna.agrawal@icloud.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krishnaagr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nikhilganta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishnaaag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nikhilganta" height="30" width="40" /></a>
 <a href="https://instagram.com/krishna_aag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_nikhil_019" height="30" width="40" /></a>
 </p>
 
@@ -17,8 +17,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savitore&label=Profile%20views&color=0e75b6&style=flat" alt="savitore" /> </p><h1 align="left"> 
-    <a href="https://www.linkedin.com/in/krishnaagr">
-    <img src="https://img.shields.io/badge/-Krishna Agrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnaagr"/></a>
+    <a href="https://www.linkedin.com/in/krishnaaag">
+    <img src="https://img.shields.io/badge/-Krishna Agrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnaaag"/></a>
     <a href="mailto:krishna.agrawal@icloud.com">
     <img src="https://img.shields.io/badge/-krishna.agrawal@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krishna.agrawal@icloud.com"/></a>
 </h1>
