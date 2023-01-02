@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Krishna Agrawal </h1>
-<h3 align="center">A passionate app developer</h3>
+<h3 align="center">A budding app developer</h3>
 <h3 align="center">I'm a 2nd year student at
      <a href="https://www.iitism.ac.in/">IIT Dhanbad</a></h3>
 <!-- <h3 align="center">Android Developer at
@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savitore&label=Profile%20views&color=0e75b6&style=flat" alt="savitore" /> </p><h1 align="left"> 
     <a href="https://www.linkedin.com/in/krishnaagr">
-    <img src="https://img.shields.io/badge/-Nikhil Ganta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnaagr"/></a>
+    <img src="https://img.shields.io/badge/-Krishna Agrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnaagr"/></a>
     <a href="mailto:krishna.agrawal@icloud.com">
     <img src="https://img.shields.io/badge/-krishna.agrawal@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krishna.agrawal@icloud.com"/></a>
 </h1>
