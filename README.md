@@ -17,8 +17,5 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savitore&label=Profile%20views&color=0e75b6&style=flat" alt="savitore" /> </p><h1 align="left"> 
-    <a href="https://www.linkedin.com/in/krishnaaag">
-    <img src="https://img.shields.io/badge/-Krishna Agrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnaaag"/></a>
-    <a href="mailto:krishna.agrawal@icloud.com">
-    <img src="https://img.shields.io/badge/-krishna.agrawal@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krishna.agrawal@icloud.com"/></a>
+  
 </h1>
