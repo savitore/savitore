@@ -12,13 +12,13 @@
 <a href="https://instagram.com/krishna_aag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_nikhil_019" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gantanikhil&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gantanikhil&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=savitore&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savitore&layout=compact">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gantanikhil&label=Profile%20views&color=0e75b6&style=flat" alt="gantanikhil" /> </p><h1 align="left"> 
-    <a href="https://www.linkedin.com/in/nikhil-ganta-225b99210">
-    <img src="https://img.shields.io/badge/-Nikhil Ganta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-ganta-225b99210"/></a>
-    <a href="mailto:gantanikhil003@gmail.com">
-    <img src="https://img.shields.io/badge/-gantanikhil003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gantanikhil003@gmail.com"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=savitore&label=Profile%20views&color=0e75b6&style=flat" alt="savitore" /> </p><h1 align="left"> 
+    <a href="https://www.linkedin.com/in/krishnaagr">
+    <img src="https://img.shields.io/badge/-Nikhil Ganta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnaagr"/></a>
+    <a href="mailto:krishna.agrawal@icloud.com">
+    <img src="https://img.shields.io/badge/-krishna.agrawal@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krishna.agrawal@icloud.com"/></a>
 </h1>
