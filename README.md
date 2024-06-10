@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Krishna Agrawal </h1>
 <h3 align="center">A budding app developer</h3>
-<h3 align="center">I'm a 3rd year student at
+<h3 align="center">I'm a Final year student at
      <a href="https://www.iitism.ac.in/">IIT Dhanbad</a></h3>
 
 - 📫 How to reach me **krishna.agrawal@icloud.com**
